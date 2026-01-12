@@ -1,5 +1,16 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+# === 核心推荐：范明明 (国内直连优化，IPv6为主，速度极快) ===
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+
+# === 备用推荐：YueChan (混合源，更新频率高) ===
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+# === 备用推荐：YanG (收录非常全面，含地方台) ===
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+# === 国际源：IPTV-ORG (GitHub万星项目，仅中国大陆频道) ===
+https://iptv-org.github.io/iptv/countries/cn.m3u
 
 
 
