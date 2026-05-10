@@ -1,3 +1,3 @@
 Name: 河南卫视, URL: 239.3.1.50:8184, From: subscribe, IPv_Type: ipv4, Location: None, ISP: None, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: CCTV-4, URL: http://198.204.240.250:82/live/cctv4k.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 427 ms, Speed: 9.37 M/s, Resolution: 1920x1080
-Name: CCTV-8, URL: http://198.204.240.250:82/live/cctv8k.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 479 ms, Speed: 10.79 M/s, Resolution: 1920x1080
+Name: CCTV-4, URL: http://198.204.240.250:82/live/cctv4k.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 6009 ms, Speed: 0.71 M/s, Resolution: 1920x1080
+Name: CCTV-8, URL: http://198.204.240.250:82/live/cctv8k.m3u8, From: subscribe, IPv_Type: ipv4, Location: 美国, ISP: , Date: None, Delay: 6708 ms, Speed: 0.76 M/s, Resolution: 1920x1080
