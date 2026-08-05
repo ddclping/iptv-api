@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-08-05 07:03:45,url
+2026-08-05 20:00:12,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 
 📡卫视频道,#genre#
 
